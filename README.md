@@ -2,6 +2,8 @@
 
 A 2D platforming game where you control a froggy character and aim to collect all the apples on each level while avoiding the dangerous traps and obstacles.
 
+Created in Python using PyGame and features pixel perfect collision detection, pickup objects, fully animated character movement and obstacles, respawns, and a main menu.
+
 ![Platformer](https://i.imgur.com/xtQls8K.png) ![Platformer](https://i.imgur.com/ii58B7z.png)
 
 # Instructions
