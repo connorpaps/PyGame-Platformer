@@ -1,6 +1,6 @@
 # Python-Platformer
 
-A 2D
+A 2D platforming game where you control a froggy character and aim to collect all the apples on each level while avoiding the dangerous traps and obstacles.
 
 ![Platformer](https://i.imgur.com/xtQls8K.png) ![Platformer](https://i.imgur.com/ii58B7z.png)
 
